@@ -1,0 +1,6 @@
+streamlit
+anthropic
+exa-py
+firecrawl-py
+pandas
+python-dotenv
